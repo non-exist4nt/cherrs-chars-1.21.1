@@ -2,6 +2,7 @@ package net.nonnie.cherrschars;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.nonnie.cherrschars.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 //hi there
@@ -11,6 +12,6 @@ public class CherrsChars implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 }
