@@ -3,6 +3,7 @@ package net.nonnie.cherrschars;
 import net.fabricmc.api.ModInitializer;
 
 import net.nonnie.cherrschars.block.ModBlocks;
+import net.nonnie.cherrschars.item.ModItemGroups;
 import net.nonnie.cherrschars.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,5 +16,6 @@ public class CherrsChars implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
 	}
 }

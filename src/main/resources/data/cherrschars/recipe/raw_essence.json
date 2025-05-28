@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "group": "cherrschars",
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "addition": {
+    "item": "cherrschars:raw_essence"
+  },
+  "template":  {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "result": {
+    "count": 1,
+    "id": "cherrschars:essence_alloy"
+}
+}

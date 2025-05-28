@@ -1,6 +1,10 @@
 {
   "item.cherrschars.cherrie_bloom": "Cherrie Bloom",
   "item.cherrschars.bloom_soul": "Bloom Soul",
+  "item.cherrschars.essence_alloy": "Essence Alloy",
+  "item.cherrschars.raw_essence": "Raw Essence",
 
-  "block.cherrschars.essence_ore": "Essence Ore"
+  "block.cherrschars.essence_ore": "Essence Ore",
+
+  "itemgroup.tutorialmod.cherrs_chars_items": "Cherr's Chars"
 }

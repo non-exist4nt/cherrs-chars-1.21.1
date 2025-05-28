@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "material",
+  "key": {
+    "#": {
+      "item": "cherrschars:raw_essence"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#$",
+    "$#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cherrschars:essence_alloy"
+  }
+}
